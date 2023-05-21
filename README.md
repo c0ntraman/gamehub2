@@ -1,2 +1,3 @@
 # Gamehub
-This website is for... educational purposes...
+this is for funtimes :D
+
